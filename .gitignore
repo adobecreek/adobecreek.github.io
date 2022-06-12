@@ -1,0 +1,7 @@
+
+# emacs backups
+*~
+
+# vi backups
+*.bak
+*.swp
