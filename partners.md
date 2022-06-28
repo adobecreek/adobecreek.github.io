@@ -8,7 +8,7 @@ feature_image: "/assets/install.png"
 <div class="categories">
 
 <div class="partner">
-     <div class="partnerlogo"><a href="https://southbranch.net/"><img src="/assets/logo_sbf.png" alt="South Branch Fiber logo"/></a></div>
+     <div class="partnerlogo"><a href="https://southbranch.net/"><img src="/assets/logo_sbf.png" alt="South Branch Fiber logo" width="140px"/></a></div>
      <div><a href="https://southbranch.net/">South Branch Fiber</a></div>
      <div>Our reseller. South Branch makes our lit and dark fiber services available to non-members.</div>
 </div>
