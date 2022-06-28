@@ -1,0 +1,65 @@
+---
+title: false
+styles: true
+---
+
+$bodytype: (
+  font-family: 'Palanquin, sans-serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: 'Palanquin, sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+.categories {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: space-around;
+    width: 1000px;
+}
+
+@media (max-width: 800px) {
+  .categories {
+    flex-direction: column;
+  }
+}
+
+.partner {
+    width: 20em;
+    margin: 2em;
+}
+
+.partnerlogo {
+    display: flex;
+    align-items: center;
+    height: 7em;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+img.partnerlogo {
+    width: 80%;
+}
+#locfo {
+    font-family: 'Asap';
+    font-size: 48px;
+    color: #000;
+}
+
+.personhead {
+    display: flex;
+    height: 14em;
+    align-items: center;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+@import "alembic";
