@@ -1,5 +1,5 @@
 ---
 layout: blog
-permalink: /blog/
+permalink: /news/
 collectionpage: posts
 ---

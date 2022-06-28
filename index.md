@@ -15,6 +15,6 @@ feature_image: "/assets/creekview.jpg"
 
 * Volunteers welcome! Any skill you have, we can use
 
-### If you want service from us, become a member now!
+### Become a member today!
 
 [info@adobecreek.net](mailto:info@adobecreek.net)

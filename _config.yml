@@ -8,6 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+
 ##############################
 # 1. Site settings
 #
@@ -27,6 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://adobecreek.net/
 
+
 ##############################
 # 2. Collections
 #
@@ -43,8 +45,11 @@ collections:
     feature_text: |
       What's happening at Adobe Creek
     feature_image: "https://picsum.photos/2560/600?image=866"
-  equipment:
-    output: true
+  people:
+    title: People
+    ### output: true
+    description: "People at Adobe Creek"
+
 
 ##############################
 # 3. Settings for collections
@@ -77,6 +82,13 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+  -
+    scope:
+      path: ""
+      type: "people"
+    values:
+      layout: page # Set the default layout for people
+
 
 ##############################
 # 4. Jekyll settings
@@ -160,8 +172,10 @@ navigation_header:
   url: /
 - title: Services
   url: /services/
-- title: Blog
-  url: /blog/
+- title: News
+  url: /news/
+- title: People
+  url: /people/
 #- title: Categories
 #  url: /categories/
 #- title: Search
@@ -197,7 +211,7 @@ fonts:
     - https://fonts.googleapis.com
     - https://fonts.gstatic.com
   font_urls:
-    - https://fonts.googleapis.com/css2?family=Palanquin+Dark&family=Palanquin:wght@400;500&display=swap
+    - https://fonts.googleapis.com/css2?family=Asap:ital,wght@1,500&family=Palanquin:wght@400;500&display=swap
 
 ##############################
 # 7. Site favicons & manifest icons
