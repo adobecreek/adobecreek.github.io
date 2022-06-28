@@ -2,7 +2,7 @@
 layout: page
 title: Adobe Creek Networks
 permalink: /
-feature_image: "/assets/creekview.png"
+feature_image: "/assets/creekview.jpg"
 ---
 
 ### Reliable fiber to your home
@@ -14,5 +14,7 @@ feature_image: "/assets/creekview.png"
 * Underground network installation planned for 2022, with service immediately thereafter
 
 * Volunteers welcome! Any skill you have, we can use
+
+### If you want service from us, become a member now!
 
 [info@adobecreek.net](mailto:info@adobecreek.net)
