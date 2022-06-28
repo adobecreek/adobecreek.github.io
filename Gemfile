@@ -6,7 +6,7 @@
 #     bundle exec jekyll serve
 
 source "https://rubygems.org"
-
+gem "webrick"
 
 gem "minima"
 gem "jekyll-remote-theme"
