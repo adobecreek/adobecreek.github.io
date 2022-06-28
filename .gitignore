@@ -1,7 +1,8 @@
-
-# emacs backups
+vendor/
+_site/
+.bundle/
+.sass-cache/
+.jekyll-metadata
+Gemfile.lock
+**/Gemfile.lock
 *~
-
-# vi backups
-*.bak
-*.swp

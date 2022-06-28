@@ -1,0 +1,45 @@
+---
+title: false
+styles: true
+---
+
+$bodytype: (
+  font-family: '"Palanquin", sans-serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: '"Palanquin", serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+.categories {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: space-around;
+    width: 800px;
+}
+
+.partner {
+    width: 20em;
+}
+
+.partnerlogo {
+    display: flex;
+    align-items: center;
+    height: 7em;
+    padding-top: 1em;
+    margin: 2em;
+}
+img.partnerlogo {
+    width: 80%;
+}
+
+@import "alembic";
