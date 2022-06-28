@@ -1,6 +1,6 @@
 ---
 name: Mike Carlton
-role: Chair of the Board of Directors, and Treasurer
+role: Chair and Treasurer
 ---
 
 Mike gathers our collective wisdom and, as Treasurer, is primarily
