@@ -18,10 +18,13 @@ service to adjacent areas; if you're interested please contact us.
 
 [info@adobecreek.net](mailto:info@adobecreek.net)
 
+## Thanks to:
+
 Web theme [alembic](https://github.com/daviddarnes/alembic)
 realized by [jekyll][jekyll-organization]
 
 [jekyll-organization]: https://github.com/jekyll
 
-Homepage photo by Schmiebel - Own work, CC BY-SA 3.0,
-https://commons.wikimedia.org/w/index.php?curid=33165899
+Homepage photo by [Schmiebel - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=33165899)
+
+Partners page photo courtesy [LOCFO](https://locfo.org/)
