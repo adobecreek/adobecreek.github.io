@@ -1,7 +1,7 @@
 ---
 name: Marc Wilkinson
 role: Director
+head_image: /assets/marcphoto.jpg
 ---
 
-Marc brings both technical and business experience to the Board.
-
+Marc brings trans-Atlantic technical and business experience to Adobe Creek.
