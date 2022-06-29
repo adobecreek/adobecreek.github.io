@@ -9,13 +9,14 @@ In the two months since our last update, things have moved forward quickly.  <i>
 
 <!-- more -->
 
-**Welcome new members!** We're excited to announce that nine folks
-have joined Adobe Creek as full voting members. Adobe Creek is owned
-and controlled by its members, and we thank these people for their
-support to keep us going in these early days. If you plan to get
+**Welcome new members!** We're excited to announce that quite a few
+folks have joined Adobe Creek as full voting members. Adobe Creek is
+owned and controlled by its members, and we thank these people for
+their support to keep us going in these early days. If you plan to get
 service from Adobe Creek, please move towards joining now. To join,
-fill out this membership form. Email me directly if you have any
-questions.
+fill out
+[our membership request form](https://docs.google.com/forms/d/e/1FAIpQLSeYN9oDDFRXHENmlz4RUriV4BCkOvdosBdjS8B3aOfby6vGKA/viewform?usp=sf_link).
+Email me directly if you have any questions.
 
 **We have signed contracts** with Next Level Networks for engineering
 and permitting as well as for the equipment and materials we will
