@@ -11,15 +11,15 @@ feature_image: "/assets/creekview.jpg"
 
 * Serving Upper Page Mill Road in Palo Alto, and adjacent areas afterwards
 
-* Underground network installation planned for late 2024 or early 2025, with service immediately thereafter
+* Underground network installation planned for mid-2025, with service immediately thereafter
 
 * Volunteers welcome! Any skill you have, we can use
 
-### 2024 Annual General Meeting
+### 2025 Annual General Meeting
 
-We will hold our 2024 Annual General Meeting on July 28th, 10 am.
-The meeting is open to all members of Adobe Creek. 
-[<i>more...</i>](/announcements/2024/07/09/annual-general-meeting)
+We will hold our 2025 Annual General Meeting on July 27th, 11 am.
+The meeting is open to all members of Adobe Creek.
+[<i>more...</i>](/announcements/2025/05/21/annual-general-meeting)
 
 ### Become a member today!
 

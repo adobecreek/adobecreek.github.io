@@ -8,11 +8,10 @@
 source "https://rubygems.org"
 gem "webrick"
 
-gem "jekyll", "~> 3.9.4"
 gem "minima"
 gem "jekyll-remote-theme"
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -25,6 +24,8 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jemoji"
 end
+
+gem "bigdecimal"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
