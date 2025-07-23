@@ -172,6 +172,8 @@ navigation_header:
   url: /
 - title: Services
   url: /services/
+- title: Documents
+  url: /documents/
 - title: News
   url: /news/
 - title: People
